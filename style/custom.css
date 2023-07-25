@@ -4,3 +4,9 @@
 .font-manrope {
   font-family: 'Manrope', sans-serif;
 }
+
+.super-client-section {
+  background-image: url('../images/cup.png');
+  background-position: left bottom;
+  background-repeat: no-repeat;
+}
